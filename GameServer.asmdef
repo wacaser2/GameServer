@@ -1,0 +1,15 @@
+{
+    "name": "GameServer",
+    "references": [
+        "GUID:2a64303a2b2366642b59705485a9505d"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
